@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("1:This is a book.\n4:beautiful book\n5:it is a big book\n");
+    printf("2:This is a pen\n");
+    printf("3:it is time to go bed\n");
+    printf("6:a lot of homework\n");
+    printf("7:good night\n");
+
+    return 0;
+}
